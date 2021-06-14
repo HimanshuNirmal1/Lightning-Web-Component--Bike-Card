@@ -1,3 +1,8 @@
+![Bike Card- LWC Output](https://user-images.githubusercontent.com/45479710/121839925-bd9beb80-ccf8-11eb-8ed5-e6a14b39229c.png)
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
